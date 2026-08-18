@@ -1,0 +1,4 @@
+bin/
+*.class
+temp_*.docx
+*.log

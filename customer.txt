@@ -1,0 +1,4 @@
+101,Joseph Lee,josephd311@gmail.com,0113341987,Corporate,25
+103,Charlie Lim,charliel315@gmail.com,0182346789,Regular,0
+105,Jun Yu,yxwjy1012@gmail.com,0140021012,Student,1
+111,Grace,grace23@gmail.com,0190876542,Student,5
